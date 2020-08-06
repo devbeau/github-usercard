@@ -158,7 +158,7 @@ body {
 }
 .expand-button {
   font-size: 2rem;
-  border:1px lightblue solid;
+  /* border:1px lightblue solid; */
 }
 
 .toggle-open{
